@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+        "id": "1",
+        "name": "Dental Services",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-1.jpg",
+        "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity, commonly in the dentition as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area.[1] The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist."
+    },
+    {
+        "id": "2",
+        "name": "Bariatric Surgery",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-2.jpg",
+        "description": "Bariatric surgery (or weight loss surgery) includes a variety of procedures performed on people who are obese. Long term weight loss through standard of care procedures (Roux en-Y bypass, sleeve gastrectomy, and biliopancreatic diversion with duodenal switch) is largely achieved by altering gut hormone levels that are responsible for hunger and satiety, leading to a new hormonal weight set point.[1] Bariatric surgery is a hormonal surgery in these procedures, for which the alteration in gut hormones develops as a result of the procedure's restriction and malabsorption.[1]"
+    },
+    {
+        "id": "3",
+        "name": "Heart Transplant",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-3.jpg",
+        "description": "A heart transplant, or a cardiac transplant, is a surgical transplant procedure performed on patients with end-stage heart failure or severe coronary artery disease when other medical or surgical treatments have failed. As of 2018, the most common procedure is to take a functioning heart, with or without both lungs, from a recently deceased organ donor (brain death is the standard[1]) and implant it into the patient. The patient's own heart is either removed and replaced with the donor heart (orthotopic procedure) or, much less commonly, the recipient's diseased heart is left in place to support the donor heart (heterotopic, or 'piggyback', transplant procedure)."
+    },
+    {
+        "id": "4",
+        "name": "Chemical Research",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-4.jpg",
+        "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes. One characteristic of a research chemical is that it is for laboratory research use only; a research chemical is not intended for human or veterinary use. This distinction is required on the labels of research chemicals, and is what exempts them from regulation under parts 100-740 in Title 21 of the Code of Federal Regulations (21CFR).[1]Research chemicals are fundamental in the development of novel pharmacotherapies. Common medical laboratory uses include in vivo and animal testing to determine therapeutic value, toxicology testing by contract research organizations to determine drug safety, and analysis by drug test and forensic toxicology labs for the purposes of evaluating human exposure. Many pharmacologically active chemicals are sold online under the guise of 'research chemicals,' when in reality they are untested designer drugs that are being sold for recreational use despite the compounds' transitional or unclear legal status."
+    },
+    {
+        "id": "5",
+        "name": "Anatomical Pathology",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-5.jpg",
+        "description": "Anatomical pathology (Commonwealth) or Anatomic pathology (U.S.) is a medical specialty that is concerned with the diagnosis of disease based on the macroscopic, microscopic, biochemical, immunologic and molecular examination of organs and tissues. Over the last century, surgical pathology has evolved tremendously: from historical examination of whole bodies (autopsy) to a more modernized practice, centered on the diagnosis and prognosis of cancer to guide treatment decision-making in oncology. Its modern founder was the Italian scientist Giovan Battista Morgagni from Forlì.Anatomical pathology is one of two branches of pathology, the other being clinical pathology, the diagnosis of disease through the laboratory analysis of bodily fluids or tissues. Often, pathologists practice both anatomical and clinical pathology, a combination known as general pathology.[1] Similar specialties exist in veterinary pathology."
+    },
+    {
+        "id": "6",
+        "name": "Heart Disease",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-6.jpg",
+        "description": "Cardiovascular disease (CVD) is a class of diseases that involve the heart or blood vessels.[2] CVD includes coronary artery diseases (CAD) such as angina and myocardial infarction (commonly known as a heart attack).[2] Other CVDs include stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.[2][3]The underlying mechanisms vary depending on the disease.[2] Coronary artery disease, stroke, and peripheral artery disease involve atherosclerosis.[2] This may be caused by high blood pressure, smoking, diabetes mellitus, lack of exercise, obesity, high blood cholesterol, poor diet, excessive alcohol consumption,[2] and poor sleep,[5][6] among others. High blood pressure is estimated to account for approximately 13% of CVD deaths, while tobacco accounts for 9%, diabetes 6%, lack of exercise 6% and obesity 5%.[2] Rheumatic heart disease may follow untreated strep throat.[2]"
+    }
+]
+}
